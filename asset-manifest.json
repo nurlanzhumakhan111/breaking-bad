@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-youtube/static/css/main.d2f435aa.chunk.css",
+    "main.js": "/breaking-bad-youtube/static/js/main.608b0c00.chunk.js",
+    "main.js.map": "/breaking-bad-youtube/static/js/main.608b0c00.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-youtube/static/js/runtime-main.e069ab9d.js",
+    "runtime-main.js.map": "/breaking-bad-youtube/static/js/runtime-main.e069ab9d.js.map",
+    "static/js/2.f3310257.chunk.js": "/breaking-bad-youtube/static/js/2.f3310257.chunk.js",
+    "static/js/2.f3310257.chunk.js.map": "/breaking-bad-youtube/static/js/2.f3310257.chunk.js.map",
+    "index.html": "/breaking-bad-youtube/index.html",
+    "static/css/main.d2f435aa.chunk.css.map": "/breaking-bad-youtube/static/css/main.d2f435aa.chunk.css.map",
+    "static/js/2.f3310257.chunk.js.LICENSE.txt": "/breaking-bad-youtube/static/js/2.f3310257.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breaking-bad-youtube/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/breaking-bad-youtube/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/breaking-bad-youtube/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e069ab9d.js",
+    "static/js/2.f3310257.chunk.js",
+    "static/css/main.d2f435aa.chunk.css",
+    "static/js/main.608b0c00.chunk.js"
+  ]
+}
